@@ -1,6 +1,6 @@
 ---
 title: In defence of silly
-date: "2020-08-21"
+date: "2020-08-12"
 description: "Seriousness is overrated"
 ---
 
