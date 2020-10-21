@@ -1,15 +1,24 @@
 module.exports = {
   siteMetadata: {
+    // Used for the site title and SEO
     title: `Personal Blog`,
-    author: {
-      name: `Ian Cawood`,
-      summary: `who lives and works in Cape Town`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
-    social: {
-      twitter: `Ian_Cawood`,
-    },
+    // Used to provide alt text for your avatar
+    author: `Ian Cawood`,
+    // Used for SEO
+    description: `A nice description`,
+    // Used for resolving images in social cards
+    siteUrl: `https://iancawood.com`,
+    // Used for social links in the root footer
+    social: [
+      {
+        name: `Twitter`,
+        url: `https://twitter.com/Ian_Cawood`,
+      },
+      {
+        name: `GitHub`,
+        url: `https://github.com/ian-cawood`,
+      },
+    ],
   },
   plugins: [
     {
@@ -76,6 +85,14 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-theme-blog`,
+      options: {
+        basePath: `/blog`,
+        prismPreset: `prism-okaidia`,
+        contentPath: `content/blog`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
