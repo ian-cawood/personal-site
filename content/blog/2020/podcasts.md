@@ -1,7 +1,7 @@
 ---
 title: Podcasts for sleep please
 date: "2020-10-22"
-description: "How I've started using podcasts to soothe myself to sleep"
+excerpt: "How I've started using podcasts to soothe myself to sleep."
 ---
 
 Alright so let's get one thing very clear right from the get go. This is not advice. Or a good way of doing things. I don't even know how I ended up here. There are so many podcasts out there that there are podcasts talking about how to choose podcasts. We've reached something that TV went through ages ago. And before that movies. And before that radio. Ok we get the point.

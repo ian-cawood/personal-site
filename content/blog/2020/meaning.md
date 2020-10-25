@@ -1,7 +1,7 @@
 ---
 title: On Meaning
 date: "2020-08-01"
-description: "What I've learned this week"
+excerpt: "What I've learned this week. Changing opinions based on new knowledge."
 ---
 
 This week has been very strange. I've realized that my opinions on meaning keep changing. I'm not sure if I'll ever have an answer that resonates completely with me. I keep reading and seeing new things that update my fundamental beliefs, which I guess are not so fundamental after all.

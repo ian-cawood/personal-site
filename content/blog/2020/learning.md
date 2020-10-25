@@ -1,7 +1,7 @@
 ---
 title: Why I learn new things
 date: "2020-09-13"
-description: "About the importance of learning things"
+excerpt: "About the importance of learning things in my life."
 ---
 
 I really like learning new skills. There's just something so magical about not knowing how to do something and then watching a video or reading an article and suddenly things fall in place. But of course it's not just that simple. Sometimes information is hard to find or you're having a bad day and everything you do is just trash. That's the part I struggle with. I want to do all the things and know all the things and I want that now.

@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "personal-website",
   "private": true,
-  "description": "A personal blog for Ian Cawood",
+  "description": "A personal website for Ian Cawood",
   "version": "0.1.0",
   "author": "Ian Cawood <ian.cawood@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
   "dependencies": {
     "gatsby": "^2.24.83",
     "gatsby-image": "^2.4.9",

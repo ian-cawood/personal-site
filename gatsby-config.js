@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     // Used for the site title and SEO
-    title: `Personal Blog`,
+    title: `Ian Cawood`,
     // Used to provide alt text for your avatar
     author: `Ian Cawood`,
     // Used for SEO
-    description: `A nice description`,
+    description: `A personal website for Ian Cawood`,
     // Used for resolving images in social cards
     siteUrl: `https://iancawood.com`,
     // Used for social links in the root footer
@@ -21,13 +21,6 @@ module.exports = {
     ],
   },
   plugins: [
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
-    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -64,7 +57,6 @@ module.exports = {
       options: {
         trackingId: `UA-180810245-1`,
         anonymize: true,
-        respectDNT: true,
       },
     },
     `gatsby-plugin-feed`,

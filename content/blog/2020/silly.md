@@ -1,7 +1,7 @@
 ---
 title: In defence of silly
 date: "2020-08-12"
-description: "Seriousness is overrated"
+excerpt: "Seriousness is overrated and being silly is the way forward."
 ---
 
 Silly movies and comedy sketches are the best. There might be some bias in that statement but I honestly don't care, this is the hill where I will fight to the death. Where I will throw my holy hand grenade.

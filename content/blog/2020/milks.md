@@ -1,7 +1,7 @@
 ---
 title: The lactose tax
 date: "2020-10-12"
-description: "Why do I pay so much more for alternative milks at a coffee shop?"
+excerpt: "Why do I pay so much more for alternative milks at a coffee shop?"
 ---
 
 My friends may have heard me complain about this one before. I'm so dumbfounded that this is still a thing. And I know it's not the worst problem in the world. But seriously why does it cost 20-40% more for a coffee when I want soy/oat milk.

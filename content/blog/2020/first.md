@@ -1,7 +1,7 @@
 ---
 title: First
 date: "2020-07-30"
-description: "An introduction"
+excerpt: "The introduction to my blog and why I've started writing more."
 ---
 
 I'm a very private person. Writing calms me down. It doesn't really matter what I write about or who reads it. This is an attempt to share a bit more about things that happen in my everyday life.

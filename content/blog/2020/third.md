@@ -1,7 +1,7 @@
 ---
 title: A bit personal
 date: "2020-08-08"
-description: "Transitions into the Ops"
+excerpt: "Transitioning into a DevOps role as a software engineer."
 ---
 
 I've been transitioning into a new role (more ops than dev) at work for the last year. And it's terrifying. I now need to do things that no one else has done before. The internet has no answers.

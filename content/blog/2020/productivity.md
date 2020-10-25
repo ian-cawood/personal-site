@@ -1,7 +1,7 @@
 ---
 title: Thoughts on productivity
 date: "2020-08-22"
-description: "Why are we so obsessed with being productive"
+excerpt: "Why are we so obsessed with being productive?"
 ---
 
 Remember that [bruce almighty](https://en.wikipedia.org/wiki/Bruce_Almighty) scene where Jim Carrey is super productive and answering all the prayers in mere seconds. Something we mere mortals can only wish to do. I really like that scene because of what follows. Turns out just rushing through all the prayers and granting all the wishes is a bad idea.
