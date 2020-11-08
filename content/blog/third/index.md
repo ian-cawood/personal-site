@@ -13,5 +13,6 @@ To try to keep myself sane and grounded, I've been relying on friends and collea
 It's been an exciting year work-wise and I've been enjoying the seemingly insurmountable mountain of information thrown at me. So while we're all trying to ignore the dumpster fire that is the world right now, I'm going to keep reading/learning/experimenting.
 
 Here's some cool stuff:
+
 - [doef doef](https://www.youtube.com/watch?v=mj4cD5xn2n0) is the afrikaans club banger we all need.
 - The [cloud native foundation](https://www.cncf.io/) is wonderful for the world of software. Here's a short [definition](https://github.com/cncf/toc/blob/master/DEFINITION.md) of what it's about.
