@@ -5,10 +5,22 @@ import styled from "styled-components"
 import SEO from "../components/seo"
 
 const ArticleStyles = styled.article`
-    a {
-        margin-bottom: 1rem;
-        font-size: 2rem;
+  a {
+    color: var(--primary);
+    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+  small {
+    font-size: 1.3rem;
+  }
+
+  section {
+    p {
+      font-size: 1.7rem;
     }
+  }
 `
 
 const BlogIndex = ({ data }) => {
@@ -22,10 +34,10 @@ const BlogIndex = ({ data }) => {
         return (
           <ArticleStyles key={node.fields.slug}>
             <header>
-              <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+              <Link to={node.fields.slug}>
                 {title}
               </Link>
-              <hr />
+              <br />
               <small>{node.frontmatter.date}</small>
             </header>
             <section>
@@ -35,6 +47,7 @@ const BlogIndex = ({ data }) => {
                 }}
               />
             </section>
+            <hr />
           </ArticleStyles>
         )
       })}
