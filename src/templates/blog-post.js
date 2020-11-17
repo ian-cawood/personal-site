@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 import styled from "styled-components"
 
 import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
 
 const ArticleStyles = styled.article`
   header {
@@ -44,11 +43,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        <hr />
       </ArticleStyles>
 
       <nav>
