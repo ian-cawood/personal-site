@@ -12,4 +12,4 @@ So to the point now. I find a lot of these podcasts incredibly boring, monotonou
 
 ![](https://media.giphy.com/media/H7kfFDvD9HSYGRbvid/giphy.gif)
 
-Anyway I'm trying to shake this habit by putting my phone away before bed. It's been going ok until I found a loophole this week by using the laptop instead. So clearly my crafty mind is getting one over on me. So all electronics are now banned from my bedroom. Yes even wireless earphones. Take that brain. 
+Anyway I'm trying to shake this habit by putting my phone away before bed. It's been going ok until I found a loophole this week by using the laptop instead. So clearly my crafty mind is getting one over on me. So all electronics are now banned from my bedroom. Yes even wireless earphones. Take that brain.

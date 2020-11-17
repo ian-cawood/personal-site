@@ -11,6 +11,7 @@ I really like learning new skills. There's just something so magical about not k
 Sounds a bit unreasonable right? Sometimes I need to reign in that passion a bit and focus on why I actually want to learn something new. And sometimes there needs to be no reason at all.
 
 About a month ago I spent a morning folding paper planes and flying them in my apartment.
+
 - Did this help my professional career? Hell no!
 - Am I going to spend time trying to improve their designs? No
 - Can I appreciate the aerodynamics of a paper plane? Yes
