@@ -26,18 +26,15 @@ I've loved playing strategy games from the moment I played my first one (StarCra
 
 And after I got a couple of raises I realised that somehow my money had the gift of disappearing no matter what I was earning. This is something we all need to deal with. We are constantly told that we need certain things to be successful (car, house, second house, second car, T.V., etc.). Why are we not taking a more personal route?
 
-![](https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif)
-
-
 So, after a while I started realising that not only was my money disappearing from my account every month I was also very unhappy about this happening. To break this cycle, I started to track where my money was going. First on paper and then thanks to an [app](https://www.22seven.com/). If you do not trust an external company with your banking logins then please take the Excel, google sheets, or pen and paper route. There are more specific methods to achieve [mindful spending](https://www.moneyunder30.com/kakeibo-the-japanese-budget-method-explained) as well should you want a more structured strategy. The important part is to have a bird's-eye view of your expenses. This is something that will help you regardless of how much you earn and spend.
 
 Needless to say my spending habits looked as good as a table in a tornado (all over the place). There was a lot of emotional and impulse buying paired with useless large purchases. Stuff I didn't even use and subscriptions that lay dormant. Three months of tracking and I had a pretty good idea of what I was actually doing with my money. Seeing the raw truth in front of you has a more profound effect than you could ever know until you experience it. Try this. And confront your financial situation head on. You might not like what you see (I didn't) but it will help you move towards spending your money in a way that works for you.
 
 <div className="Image__Small">
   <img
-    src="./new_growth.jpg"
-    title="new_growth"
-    alt="new_growth"
+    src="./newGrowth.jpg"
+    title="New Growth"
+    alt="newGrowth"
   />
 </div>
 
